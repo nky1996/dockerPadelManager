@@ -1,0 +1,57 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 11:23:45.486634 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 11:23:45.486745 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 12:36:38.818189 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 12:57:18.096855 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 12:57:18.096934 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 12:57:35.461089 2019] [autoindex:error] [pid 17] [client 172.21.0.1:49662] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 12:57:47.228030 2019] [php7:error] [pid 19] [client 172.21.0.1:49668] script '/var/www/html/c3po.php' not found or unable to stat
+[Sat Nov 23 12:58:05.155955 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 12:58:39.142156 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 12:58:39.142231 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 12:58:45.915689 2019] [autoindex:error] [pid 17] [client 172.21.0.1:44496] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 12:58:49.462444 2019] [autoindex:error] [pid 17] [client 172.21.0.1:44496] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 12:59:17.668440 2019] [autoindex:error] [pid 19] [client 172.21.0.1:44510] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:00:32.649723 2019] [autoindex:error] [pid 21] [client 172.21.0.1:44522] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:02:36.330233 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 13:02:44.865033 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 13:02:44.865107 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 13:02:46.911609 2019] [autoindex:error] [pid 16] [client 172.21.0.1:49742] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:02:49.028147 2019] [autoindex:error] [pid 18] [client 172.21.0.1:49756] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:02:50.793371 2019] [autoindex:error] [pid 18] [client 172.21.0.1:49756] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:03:01.527969 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 13:03:37.527093 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 13:03:37.527170 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 13:05:49.303292 2019] [autoindex:error] [pid 17] [client 172.21.0.1:44592] AH01276: Cannot serve directory /var/www/html/new/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:06:47.142184 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 13:09:24.786324 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 13:09:24.786397 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 13:10:34.250020 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 13:10:59.875497 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 13:10:59.875667 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 13:11:08.531699 2019] [autoindex:error] [pid 17] [client 172.24.0.1:38980] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:11:26.136063 2019] [autoindex:error] [pid 18] [client 172.24.0.1:38988] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:11:35.167589 2019] [php7:error] [pid 21] [client 172.24.0.1:38996] script '/var/www/html/c3po.php' not found or unable to stat
+[Sat Nov 23 13:11:55.660735 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 13:12:16.107570 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 13:12:16.107647 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 13:12:38.832923 2019] [autoindex:error] [pid 16] [client 172.24.0.1:39036] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:12:45.929533 2019] [autoindex:error] [pid 17] [client 172.24.0.1:39040] AH01276: Cannot serve directory /var/www/html/new/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 13:13:13.972399 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 13:13:26.634543 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 13:13:26.634638 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 13:32:59.957255 2019] [autoindex:error] [pid 17] [client 172.24.0.1:39628] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 14:36:45.925535 2019] [autoindex:error] [pid 47] [client 172.24.0.1:41384] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat Nov 23 14:41:04.626576 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 23 14:41:16.639228 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.12 configured -- resuming normal operations
+[Sat Nov 23 14:41:16.639305 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 23 14:46:35.596477 2019] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
